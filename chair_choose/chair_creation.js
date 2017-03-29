@@ -20,6 +20,7 @@
             document.getElementById('weight1').innerHTML=weight;
             document.getElementById('height1').innerHTML=height;
             $('#result').show()
+            $('#threeD').show()
             $('#chair2').hide()
             $('#chair3').hide()
             $('#chair4').hide()
